@@ -1,8 +1,5 @@
 """
-Problem: 01_
-
-
-Valid Palindrome
+Problem: 01_Valid Palindrome
 Pattern: Two Pointers
 Approach:
 - Two pointers moving from both ends toward center
